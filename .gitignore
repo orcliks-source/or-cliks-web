@@ -41,3 +41,6 @@ next-env.d.ts
 /recursos_imagenes/fotos/*.CR2
 /recursos_imagenes/fotos/*.png
 /contact-sheet.jpg
+
+# Originales locales: la web publica las copias optimizadas de /public
+/recursos_imagenes/
